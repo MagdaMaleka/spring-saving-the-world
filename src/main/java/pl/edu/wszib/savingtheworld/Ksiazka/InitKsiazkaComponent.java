@@ -23,7 +23,7 @@ public class InitKsiazkaComponent {
     KsiazkaKucharskaDAO ksiazkaKucharskaDAO;
 
 
-    @PostConstruct
+/*    @PostConstruct
     public void init(){
 
         for (int i = 0; i < 10; ++i) {
@@ -53,5 +53,5 @@ public class InitKsiazkaComponent {
         System.out.println(" ");
 
 
-    }
+    }*/
 }
